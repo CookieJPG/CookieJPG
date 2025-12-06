@@ -37,11 +37,5 @@ I love exploring new technologies. Here is my current arsenal:
 * **Features:** Optimized UI performance and automated updates .
 ---
 
-## 📊 GitHub Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieJPG&show_icons=true)
-
----
-
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juan-pablo-monroy-espinosa-1741ba309/)
