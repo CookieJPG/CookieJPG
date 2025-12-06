@@ -26,26 +26,20 @@ I love exploring new technologies. Here is my current arsenal:
 
 ## 🚀 Key Projects
 
-### 🎙️ [Freelance Transcription App (Python)](LINK_TO_REPO_HERE)
+### 🎙️ Freelance Transcription App (Python)
 *Automated reporting tool for a private client.*
 * **Tech:** Python, SQL, Automation
 * **Impact:** Reduced manual processing time and operational costs by automating meeting report generation .
 
-### 📝 [Personal Blog (React)](LINK_TO_REPO_HERE)
+### 📝 Personal Blog (React)
 *A modern, responsive blog with CI/CD pipelines.*
 * **Tech:** React, Netlify, Markdown
 * **Features:** Optimized UI performance and automated updates .
-
-### 🎮 [Game Dev Project Name] (LINK_TO_REPO_HERE)
-*An interactive game project exploring mechanics and design.*
-* **Tech:** Unity/Godot, C#
-* **Description:** (Add a short description of that game project you mentioned!)
-
 ---
 
 ## 📊 GitHub Stats
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieJPG&show_icons=true&theme=radical)
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieJPG)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
