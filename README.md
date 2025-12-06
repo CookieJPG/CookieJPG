@@ -39,7 +39,7 @@ I love exploring new technologies. Here is my current arsenal:
 
 ## 📊 GitHub Stats
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieJPG)](https://github.com/anuraghazra/github-readme-stats)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieJPG&show_icons=true)
 
 ---
 
